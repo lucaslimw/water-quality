@@ -11,6 +11,6 @@ To calculate the **Water Quality Index (WQI)**, we used the [**tikatuwq**](https
 
 # Location map
 <p align="center">
-    <img src="images/piracicaba.png" width="400">
+    <img src="images/piracicaba.png" width="80%">
 </p>
-![Mapa de localização](images/piracicaba.png)
+
